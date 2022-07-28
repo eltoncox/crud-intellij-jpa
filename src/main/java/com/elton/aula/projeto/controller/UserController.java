@@ -1,5 +1,7 @@
-package com.elton.aula.projeto;
+package com.elton.aula.projeto.controller;
 
+import com.elton.aula.projeto.repository.UserRepository;
+import com.elton.aula.projeto.model.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

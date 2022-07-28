@@ -1,4 +1,4 @@
-package com.elton.aula.projeto;
+package com.elton.aula.projeto.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
